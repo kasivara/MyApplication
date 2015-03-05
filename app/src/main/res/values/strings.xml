@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!--<string name="hello_world">Hello world!</string>-->
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message.</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity">MY APP</string>
+    <string name="title_activity_display_message">MyMessage</string>
+
+    <string name="invoked_second_activity">invoked second activity</string>
+    <string name="title_activity_activity_life_cycle">ActivityLifeCycle</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
